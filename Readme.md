@@ -3,7 +3,7 @@
 
 * [Data.cs](./CS/Data.cs) (VB: [Data.vb](./VB/Data.vb))
 * [MainPage.xaml](./CS/MainPage.xaml) (VB: [MainPage.xaml](./VB/MainPage.xaml))
-* [MainPage.xaml.cs](./CS/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to create SubMenu's items from a data collection
 
